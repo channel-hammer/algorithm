@@ -15,6 +15,7 @@ const int MAX = 20, NUMBER_OF_DIRECTION = 8;
 int N, L;
 int map[MAX + 2][MAX + 2];
 int dp[MAX + 2][MAX + 2][MAX + 2][MAX + 2][MAX + 2];
+// dp[L][A.x][A.y][B.x][B.y]
 
 int dy[8] = {-1, -1, 0, 1, 1, 1, 0, -1};
 int dx[8] = {0, 1, 1, 1, 0, -1, -1, -1};

@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89ed957-7d3c-4427-810f-b11c7814bb90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOARDCOVER2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK2172.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BAEK2172.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,8 @@
       <option name="presentableId" value="Default" />
       <updated>1626786482603</updated>
       <workItem from="1626786483847" duration="19000" />
+      <workItem from="1627997488836" duration="1315000" />
+      <workItem from="1628527340653" duration="525000" />
     </task>
     <servers />
   </component>
@@ -63,5 +66,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
